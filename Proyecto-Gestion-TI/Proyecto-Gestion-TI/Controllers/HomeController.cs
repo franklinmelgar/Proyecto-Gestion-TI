@@ -13,8 +13,20 @@ namespace Proyecto_Gestion_TI.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult establerNombre()
         {
+            string nombre = HttpContext.Session.GetString("nombre");
+            ViewBag.Nombre = nombre;
+
+            return PartialView("_SetNombre");
+        }
+
+        public IActionResult Index()
+        {            
+            if (HttpContext.Session.GetString("codigo") == null)
+            {
+                return RedirectToAction("Index", "Login");
+            }
 
             return View();
         }

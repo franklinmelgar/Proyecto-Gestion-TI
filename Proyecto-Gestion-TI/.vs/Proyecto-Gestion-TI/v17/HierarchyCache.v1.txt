@@ -1,0 +1,464 @@
+﻿++Solution 'Proyecto-Gestion-TI' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Proyecto-Gestion-TI.sln
+++Proyecto-Gestion-TI
+i:{00000000-0000-0000-0000-000000000000}:Proyecto-Gestion-TI
+++Connected Services 
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:>659
+++Dependencies
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:>658
+++Properties
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\properties\
+++wwwroot
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\
+++Controllers
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\controllers\
+++HomeController.cs
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\controllers\homecontroller.cs
+++LoginController.cs
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\controllers\logincontroller.cs
+++Models
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\models\
+++ErrorViewModel.cs
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\models\errorviewmodel.cs
+++GestionRRHHContext.cs
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\models\gestionrrhhcontext.cs
+++Usuario.cs
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\models\usuario.cs
+++Views
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\
+++Home
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\home\
+++Index.cshtml
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\home\index.cshtml
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\login\index.cshtml
+++Privacy.cshtml
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\home\privacy.cshtml
+++Login
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\login\
+++Shared
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\shared\
+++_Layout.cshtml
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\shared\_layout.cshtml
+++_LayoutLogin.cshtml
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\shared\_layoutlogin.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\_viewstart.cshtml
+++appsettings.json
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\appsettings.json
+++Program.cs
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\program.cs
+++No service dependencies discovered
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:>660
+++Analyzers
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:analyzers
+++Frameworks
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:frameworks
+++Packages
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:packages
+++launchSettings.json
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\properties\launchsettings.json
+++css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\
+++fonts
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\
+++images
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\
+++js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\
+++favicon.ico
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\favicon.ico
+++_Layout.cshtml.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\sdk\6.0.105\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\sdk\6.0.105\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\sdk\6.0.105\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\sdk\6.0.105\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\sdk\6.0.105\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\sdk\6.0.105\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\sdk\6.0.105\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\microsoft.netcore.app
+++Microsoft.AspNetCore.Session (2.2.0)
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:>681
+++Microsoft.EntityFrameworkCore (6.0.5)
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:>678
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:>679
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:>680
+++animate.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\animate.css
+++baguetteBox.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\baguettebox.min.css
+++bootstrap.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap-grid.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap-reboot.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-select.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap-select.css
+++calendar.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\calendar.css
+++color_2.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\color_2.css
+++custom.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\custom.css
+++flaticon.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\flaticon.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\flaticon.css
+++font-awesome.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\font-awesome.css
+++jquery.fancybox.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\jquery.fancybox.css
+++owl.carousel.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\owl.carousel.css
+++perfect-scrollbar.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\perfect-scrollbar.css
+++responsive.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\responsive.css
+++semantic.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\semantic.min.css
+++site.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\site.css
+++style.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\style.css
+++_flaticon.scss
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\_flaticon.scss
+++Flaticon.eot
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\flaticon.eot
+++flaticon.html
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\flaticon.html
+++Flaticon.svg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\flaticon.svg
+++Flaticon.ttf
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\flaticon.ttf
+++Flaticon.woff
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\flaticon.woff
+++FontAwesome.otf
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\fontawesome.otf
+++fontawesome-webfont.eot
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\fontawesome-webfont.eot
+++fontawesome-webfont.svg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\fontawesome-webfont.svg
+++fontawesome-webfont.ttf
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\fontawesome-webfont.ttf
+++fontawesome-webfont.woff
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\fontawesome-webfont.woff
+++fontawesome-webfont.woff2
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\fontawesome-webfont.woff2
+++glyphicons-halflings-regular.eot
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\fonts\glyphicons-halflings-regular.woff2
+++landing_page
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\landing_page\
+++layout_img
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\
+++logo
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\logo\
+++analyser.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\analyser.js
+++animate.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\animate.js
+++bootstrap.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\bootstrap.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap-select.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\bootstrap-select.js
+++calendar.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\calendar.js
+++Chart.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\chart.js
+++chart_custom_style1.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\chart_custom_style1.js
+++chart_custom_style2.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\chart_custom_style2.js
+++custom.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\custom.js
+++custom_chart.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\custom_chart.js
+++jquery.fancybox.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\jquery.fancybox.js
+++jquery.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\jquery.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery-3.3.1.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\jquery-3.3.1.min.js
+++owl.carousel.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\owl.carousel.js
+++perfect-scrollbar.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\perfect-scrollbar.min.js
+++popper.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\popper.min.js
+++semantic.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\semantic.min.js
+++settings.html
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\settings.html
+++site.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\site.js
+++utils.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\utils.js
+++bootstrap
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\
+++jquery
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery\
+++jquery-validation
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation-unobtrusive\
+++bootstrap.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap-grid.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap-grid.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap-reboot.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap-reboot.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++calendar.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\calendar.min.css
+++font-awesome.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\font-awesome.min.css
+++jquery.fancybox.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\jquery.fancybox.min.css
+++stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\landing_page\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg
+++.DS_Store
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\.ds_store
+++american-express.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\american-express.png
+++bg1.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\bg1.png
+++error.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\error.png
+++g1.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g1.jpg
+++g10.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g10.jpg
+++g11.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g11.jpg
+++g12.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g12.jpg
+++g13.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g13.jpg
+++g14.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g14.jpg
+++g15.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g15.jpg
+++g16.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g16.jpg
+++g2.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g2.jpg
+++g3.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g3.jpg
+++g4.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g4.jpg
+++g5.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g5.jpg
+++g6.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g6.jpg
+++g7.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g7.jpg
+++g8.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g8.jpg
+++g9.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\g9.jpg
+++login_image.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\login_image.jpg
+++map_icon.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\map_icon.png
+++mastercard.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\mastercard.png
+++msg1.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\msg1.png
+++msg2.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\msg2.png
+++msg3.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\msg3.png
+++msg4.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\msg4.png
+++msg5.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\msg5.png
+++pattern.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\pattern.png
+++pattern_h.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\pattern_h.png
+++paypal.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\paypal.png
+++user_img.jpg
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\user_img.jpg
+++visa.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\layout_img\visa.png
+++logo.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\logo\logo.png
+++logo_black.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\logo\logo_black.png
+++logo_icon.png
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\images\logo\logo_icon.png
+++bootstrap.bundle.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\bootstrap.bundle.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\bootstrap.js.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\bootstrap.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++calendar.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\calendar.min.js
+++Chart.bundle.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\chart.bundle.js
+++Chart.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\chart.min.js
+++jquery.fancybox.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\jquery.fancybox.min.js
+++dist
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery\dist\
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery\license.txt
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++bootstrap.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap-grid.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\css\bootstrap-reboot.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\bootstrap.bundle.js.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\bootstrap.bundle.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\bootstrap.min.js.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++Chart.bundle.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\chart.bundle.min.js
+++jquery.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.bundle.min.js.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\js\bootstrap.bundle.min.js.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap-utilities.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++additional-methods.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.rtl.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.rtl.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.rtl.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.esm.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++jquery.min.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.rtl.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.rtl.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.rtl.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.esm.js.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.rtl.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.esm.min.js.map
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Empleado.cs
+i:{92b8de7a-3272-427b-b757-5774af5bb456}:c:\users\frank\onedrive\documents\clases ceutec\proyectos desarrollo\proyecto-gestion-ti\proyecto-gestion-ti\proyecto-gestion-ti\models\empleado.cs

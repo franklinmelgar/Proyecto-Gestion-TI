@@ -17,6 +17,9 @@ namespace Proyecto_Gestion_TI.Controllers
             var obj = db.Usuarios.Where(a => a.CorreoElectronico.Equals(usu.CorreoElectronico) && a.ContrasenaUsuario.Equals(usu.ContrasenaUsuario)).FirstOrDefault();
             if (obj != null)
             {
+                HttpContext.Session.SetString("codigo", obj.CodigoEmpleado.ToString());
+                HttpContext.Session.SetString("nombre", obj.NombreUsuario);
+
                 return RedirectToAction("Index", "Home");
             }
 

@@ -7,7 +7,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<GestionRRHHContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("dbconn")));
 
+builder.Services.AddSession();
+
 var app = builder.Build();
+
+app.UseSession();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

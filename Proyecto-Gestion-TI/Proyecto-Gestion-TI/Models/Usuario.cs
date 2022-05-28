@@ -7,7 +7,7 @@ namespace Proyecto_Gestion_TI.Models
     {
         public int CodigoEmpleado { get; set; }
         public string CorreoElectronico { get; set; } = null!;
-        public string? NombreUsuario { get; set; }
-        public string? ContrasenaUsuario { get; set; }
+        public string NombreUsuario { get; set; }
+        public string ContrasenaUsuario { get; set; }
     }
 }
