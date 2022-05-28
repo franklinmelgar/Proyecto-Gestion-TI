@@ -15,6 +15,7 @@ namespace Proyecto_Gestion_TI.Controllers
 
         public IActionResult Index()
         {
+
             return View();
         }
 
