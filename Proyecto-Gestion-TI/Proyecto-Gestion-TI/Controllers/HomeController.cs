@@ -13,14 +13,6 @@ namespace Proyecto_Gestion_TI.Controllers
             _logger = logger;
         }
 
-        public IActionResult establerNombre()
-        {
-            string nombre = HttpContext.Session.GetString("nombre");
-            ViewBag.Nombre = nombre;
-
-            return PartialView("_SetNombre");
-        }
-
         public IActionResult Index()
         {            
             if (HttpContext.Session.GetString("codigo") == null)
@@ -28,7 +20,19 @@ namespace Proyecto_Gestion_TI.Controllers
                 return RedirectToAction("Index", "Login");
             }
 
-            return View();
+            string nombre = HttpContext.Session.GetString("nombre");
+            string tipo = HttpContext.Session.GetString("tipo");
+
+            InformacionGeneral info = new InformacionGeneral()
+            {
+                NombreGeneralEmpleado = nombre,
+                TipoGeneralEmpleado = tipo
+
+            };            
+            
+            ViewBag.Nombre = nombre;
+
+            return View(info);
         }
 
         public IActionResult Privacy()

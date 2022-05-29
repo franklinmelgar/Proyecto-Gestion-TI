@@ -1,4 +1,4 @@
-﻿@model Proyecto_Gestion_TI.Models.Usuario
+﻿@model Proyecto_Gestion_TI.Models.Empleado
 @{
     ViewData["Title"] = "Home Page";
     Layout = "~/Views/Shared/_LayoutLogin.cshtml";    
@@ -11,11 +11,11 @@
             <fieldset>
                 <div class="field">
                     <label class="label_field">Correo</label>
-                    @Html.TextBoxFor(m => m.CorreoElectronico, new{placeholder="Correo Electronico", type="email"})
+                    @Html.TextBoxFor(m => m.Correo, new{placeholder="Correo Electronico", type="email"})
                 </div>
                 <div class="field">
                     <label class="label_field">Contrasena</label>
-                    @Html.TextBoxFor(m => m.ContrasenaUsuario, new{placeholder="Contrasena", type="password"})
+                    @Html.TextBoxFor(m => m.Contrasena, new{placeholder="Contrasena", type="password"})
                 </div>
                 <div class="field margin_0">
                     <label class="label_field hidden">hidden label</label>

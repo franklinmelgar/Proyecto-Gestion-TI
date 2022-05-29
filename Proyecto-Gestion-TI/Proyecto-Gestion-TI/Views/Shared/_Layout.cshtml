@@ -1,4 +1,4 @@
-﻿
+﻿@model Proyecto_Gestion_TI.Models.InformacionGeneral
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +33,7 @@
             <div class="sidebar_blog_1">
                 <div class="sidebar-header">
                     <div class="logo_section">
-                    <a href="index.html"><img class="logo_icon img-responsive" src="~/images/logo/logo_icon.png" alt="#" /></a>
+                    <a><img class="logo_icon img-responsive" src="~/images/logo/logo_icon.png" alt="#" /></a>
                     </div>
                 </div>
                 <div class="sidebar_user_info">
@@ -41,7 +41,7 @@
                     <div class="user_profle_side">
                     <div class="user_img"><img class="img-responsive" src="~/images/layout_img/user_img.jpg" alt="#" /></div>
                     <div class="user_info">
-                        <h6>John David</h6>
+                        <h6>@Model.NombreGeneralEmpleado</h6>
                         <p><span class="online_animation"></span> Online</p>
                     </div>
                     </div>
@@ -54,7 +54,13 @@
                     <li><a asp-area="" asp-controller="Home" asp-action="Index"><i class="fa fa-clock-o orange_color"></i> <span>Inicio</span></a></li>                  
                     <li><a href="#"><i class="fa fa-map purple_color2"></i> <span>Solicitud de Vacaciones</span></a></li>
                     <li><a href="#"><i class="fa fa-bar-chart-o green_color"></i> <span>Consultas</span></a></li>
-                    <li><a href="#"><i class="fa fa-cog yellow_color"></i> <span>Configuracion</span></a></li>
+
+                    @if (@Model.TipoGeneralEmpleado.Equals("1"))
+                        {
+                            <li><a href="#"><i class="fa fa-cog yellow_color"></i> <span>Configuracion</span></a></li>                               
+                        }
+
+                    
                 </ul>
             </div>
         </nav>
@@ -78,7 +84,7 @@
                             </ul>
                             <ul class="user_profile_dd">
                                 <li>
-                                <a class="dropdown-toggle" data-toggle="dropdown"><img class="img-responsive rounded-circle" src="~/images/layout_img/user_img.jpg" alt="#" /><span class="name_user">Franklin Melgar</span></a>
+                                <a class="dropdown-toggle" data-toggle="dropdown"><img class="img-responsive rounded-circle" src="~/images/layout_img/user_img.jpg" alt="#" /><span class="name_user">@Model.NombreGeneralEmpleado</span></a>
                                 <div class="dropdown-menu">
                                     <a class="dropdown-item" href="#">Mi perfil</a>
                                     <a class="dropdown-item" href="#">Configuraciones</a>
