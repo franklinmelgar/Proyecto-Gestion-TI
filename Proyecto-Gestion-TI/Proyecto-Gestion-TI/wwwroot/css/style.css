@@ -554,6 +554,17 @@ a:focus {
     background: #009688 !important;
 }
 
+.white_color2 {
+    color: #f8f8f8 !important;
+}
+
+.icono_lista {
+    height: 10px;
+    width: 10px;
+    background-color: #039BE5;
+    text-align: center;
+}
+
 .heading1 h2 {
     line-height: normal;
     font-size: 21px;
@@ -571,6 +582,7 @@ a:focus {
 .margin_top_30 {
     margin-top: 30px;
 }
+
 
 .margin_0 {
     margin: 0 !important;
@@ -1414,6 +1426,10 @@ a[data-toggle="collapse"] {
 
 .margin_bottom_30 {
     margin-bottom: 30px;
+}
+
+.margin_bottom_15 {
+    margin-bottom: 15px;
 }
 
 .white_shd {

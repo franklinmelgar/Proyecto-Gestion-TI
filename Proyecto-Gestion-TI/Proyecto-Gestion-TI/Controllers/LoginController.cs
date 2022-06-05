@@ -7,12 +7,16 @@ namespace Proyecto_Gestion_TI.Controllers
     {
         public IActionResult Index()
         {
+            HttpContext.Session.Clear();
+            HttpContext.Session.Remove("codigo");
+
             return View();
         }
 
         [HttpPost]
         public IActionResult Index(Empleado usu)
         {
+            
             GestionRRHHContext db = new GestionRRHHContext();
             var obj = db.Empleado.Where(a => a.Correo.Equals(usu.Correo) && a.Contrasena.Equals(usu.Contrasena)).FirstOrDefault();
             if (obj != null)

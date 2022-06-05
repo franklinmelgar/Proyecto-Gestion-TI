@@ -1,8 +1,8 @@
 ﻿namespace Proyecto_Gestion_TI.Models
 {
-    public class InformacionGeneral
+    public static class InformacionGeneral
     {
-        public string NombreGeneralEmpleado { get; set; }
-        public string TipoGeneralEmpleado { get; set; }
+        public static string NombreGeneralEmpleado { get; set; }
+        public static string TipoGeneralEmpleado { get; set; }
     }
 }

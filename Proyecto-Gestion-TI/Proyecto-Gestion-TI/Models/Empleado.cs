@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Proyecto_Gestion_TI.Models
 {
@@ -14,7 +15,11 @@ namespace Proyecto_Gestion_TI.Models
         public int CodigoEmpleado { get; set; }
         public string NombreEmpleado { get; set; } = null!;
         public string Telefono { get; set; } = null!;
+
+        [Required(ErrorMessage = "Este campo es requerido.")]
         public string Correo { get; set; } = null!;
+
+        [Required(ErrorMessage = "Este campo es requerido.")]
         public string Contrasena { get; set; } = null!;
         public string Dni { get; set; } = null!;
         public DateTime FechaIngreso { get; set; }

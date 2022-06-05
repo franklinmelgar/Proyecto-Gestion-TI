@@ -21,22 +21,11 @@ namespace Proyecto_Gestion_TI.Controllers
             }
 
             string nombre = HttpContext.Session.GetString("nombre");
-            string tipo = HttpContext.Session.GetString("tipo");
-
-            InformacionGeneral info = new InformacionGeneral()
-            {
-                NombreGeneralEmpleado = nombre,
-                TipoGeneralEmpleado = tipo
-
-            };            
+            string tipo = HttpContext.Session.GetString("tipo");            
             
             ViewBag.Nombre = nombre;
+            ViewBag.Tipo = tipo;
 
-            return View(info);
-        }
-
-        public IActionResult Privacy()
-        {
             return View();
         }
 
