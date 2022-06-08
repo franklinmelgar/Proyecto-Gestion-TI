@@ -7,6 +7,13 @@
 <div class="login_form">
     @using (Html.BeginForm("Index", "Login", FormMethod.Post))
     {
+        @if (@ViewBag.Mensaje != null)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                @ViewBag.Mensaje
+            </div>
+        }
+
         <form >
             <fieldset>
                 <div class="field">

@@ -17,6 +17,8 @@ namespace Proyecto_Gestion_TI.Models
         }
 
         public virtual DbSet<AprobacionXsolicitud> AprobacionXsolicituds { get; set; } = null!;
+        public virtual DbSet<ComentariosConsulta> ComentariosConsulta { get; set; } = null!;
+        public virtual DbSet<Consulta> Consulta { get; set; } = null!;
         public virtual DbSet<Departamento> Departamentos { get; set; } = null!;
         public virtual DbSet<Empleado> Empleado { get; set; } = null!;
         public virtual DbSet<Puesto> Puestos { get; set; } = null!;
@@ -29,7 +31,8 @@ namespace Proyecto_Gestion_TI.Models
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
-            {                optionsBuilder.UseSqlServer("Server=DESKTOP-7EK03LQ\\SQLEXPRESS; Database=Gestion-RRHH;Trusted_Connection=True;");
+            {
+                optionsBuilder.UseSqlServer("Server=DESKTOP-7EK03LQ\\SQLEXPRESS; Database=Gestion-RRHH;Trusted_Connection=True;");
             }
         }
 
@@ -64,6 +67,64 @@ namespace Proyecto_Gestion_TI.Models
                     .HasForeignKey(d => d.CodigoSolicitud)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("AprobacionXSolicitud_SolicitudVacaciones_fk");
+            });
+
+            modelBuilder.Entity<ComentariosConsulta>(entity =>
+            {
+                entity.HasKey(e => e.CodigoComentario);
+
+                entity.Property(e => e.CodigoComentario).HasColumnName("codigoComentario");
+
+                entity.Property(e => e.CodigoConsulta).HasColumnName("codigoConsulta");
+
+                entity.Property(e => e.CodigoEmpleadoComentario).HasColumnName("codigoEmpleadoComentario");
+
+                entity.Property(e => e.Comentario)
+                    .IsUnicode(false)
+                    .HasColumnName("comentario");
+
+                entity.Property(e => e.FechaComentario)
+                    .HasColumnType("datetime")
+                    .HasColumnName("fechaComentario");
+
+                entity.HasOne(d => d.CodigoConsultaNavigation)
+                    .WithMany(p => p.ComentariosConsulta)
+                    .HasForeignKey(d => d.CodigoConsulta)
+                    .HasConstraintName("FK_ComentariosConsulta_Consulta");
+
+                entity.HasOne(d => d.CodigoEmpleadoComentarioNavigation)
+                    .WithMany(p => p.ComentariosConsulta)
+                    .HasForeignKey(d => d.CodigoEmpleadoComentario)
+                    .HasConstraintName("FK_ComentariosConsulta_Empleado");
+            });
+
+            modelBuilder.Entity<Consulta>(entity =>
+            {
+                entity.HasKey(e => e.CodigoConsulta);
+
+                entity.Property(e => e.CodigoConsulta).HasColumnName("codigoConsulta");
+
+                entity.Property(e => e.CodigoEmpleado).HasColumnName("codigoEmpleado");
+
+                entity.Property(e => e.DescripcionConsulta)
+                    .IsUnicode(false)
+                    .HasColumnName("descripcionConsulta");
+
+                entity.Property(e => e.EstadoConsulta).HasColumnName("estadoConsulta");
+
+                entity.Property(e => e.FechaConsulta)
+                    .HasColumnType("datetime")
+                    .HasColumnName("fechaConsulta");
+
+                entity.Property(e => e.TituloConsulta)
+                    .HasMaxLength(50)
+                    .IsUnicode(false)
+                    .HasColumnName("tituloConsulta");
+
+                entity.HasOne(d => d.CodigoEmpleadoNavigation)
+                    .WithMany(p => p.Consulta)
+                    .HasForeignKey(d => d.CodigoEmpleado)
+                    .HasConstraintName("FK_Consulta_Empleado");
             });
 
             modelBuilder.Entity<Departamento>(entity =>

@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Proyecto_Gestion_TI.Models.Consulta>
+@{
+    ViewBag.Titulo = "Mis Consultas";
+}
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="white_shd full margin_bottom_30">
+           
+            <div class="full inbox_inner_section">
+                <div class="row">
+                <div class="col-md-12">
+                    <div class="full padding_infor_info">
+                        <div class="mail-box">
+                            <aside class="lg-side">
+                                <div class="inbox-head">
+                                    <h3>Listado Consultas</h3>
+                                </div>
+                                <div class="inbox-body">
+                                    <table class="table table-inbox table-hover">
+                                        <tbody>
+                                            
+                                            @foreach (var item in Model)
+                                            {
+
+                                                <tr class="">
+                                                    <td class="inbox-small-cells">
+                                                        <div class="custom-control custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck3">
+                                                            <label class="custom-control-label" for="customCheck3"></label>
+                                                        </div>
+                                                    </td>
+
+                                                    <td class="view-message">@item.CodigoConsulta </td>
+
+                                                    <td class="view-message dont-show">
+                                                        <a asp-action="Detail" asp-controller="Consulta" asp-route-id="@item.CodigoConsulta">
+                                                            @item.TituloConsulta
+                                                        </a>                                                
+                                                    </td>
+                                                    <td class="view-message">@item.DescripcionConsulta </td>
+                                                    <td class="view-message inbox-small-cells"><i class="fa fa-paperclip"></i></td>
+                                                    <td class="view-message inbox-small-cells"></td>
+                                                    <td class="view-message text-right">@Convert.ToDateTime(item.FechaConsulta).ToShortDateString()</td>
+                                                   
+
+                                                        @if(item.EstadoConsulta.Equals(1))
+                                                        {
+                                                            <td class="view-message text-right blue1_color">
+                                                                <button type="button" class="btn btn-success btn-xs">Abierto</button>                                                              
+                                                            </td>
+                                                        }
+                                                        else
+                                                        {
+                                                            <td class="view-message text-right red_color">                                                                
+                                                                <button type="button" class="btn btn-danger btn-xs">Cerrado</button>                                                               
+                                                            </td>
+                                                        }                         
+                                                
+                                                </tr>   
+                                            }
+                                            
+                                            
+
+                                           
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </aside>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

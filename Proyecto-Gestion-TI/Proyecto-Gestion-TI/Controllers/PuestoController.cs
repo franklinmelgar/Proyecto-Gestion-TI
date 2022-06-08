@@ -58,10 +58,18 @@ namespace Proyecto_Gestion_TI.Controllers
         [HttpPost]
         public IActionResult Create(Puesto puesto)
         {
+
+            if (!ValidarInicioSesion())
+            {
+                return RedirectToAction("Index", "Login");
+            }
+
             GestionRRHHContext db = new GestionRRHHContext();
             db.Puestos.Add(puesto);
             db.SaveChanges();
-            return View(puesto);
+            ViewBag.Mensaje = "Nuevo Puesto Creado!!";
+
+            return View();
         }
 
         public IActionResult Edit(int? Id)
@@ -88,6 +96,11 @@ namespace Proyecto_Gestion_TI.Controllers
         [HttpPost]
         public IActionResult Edit(int id, Puesto puesto)
         {
+            if (!ValidarInicioSesion())
+            {
+                return RedirectToAction("Index", "Login");
+            }
+
             if (id != puesto.CodigoPuesto)
             {
                 return NotFound();
@@ -99,6 +112,7 @@ namespace Proyecto_Gestion_TI.Controllers
                 {
                     conexionBD.Update(puesto);
                     conexionBD.SaveChangesAsync();
+                    ViewBag.Mensaje = "Puesto Actualizado!!";
                 }
                 catch (DbUpdateConcurrencyException)
                 {

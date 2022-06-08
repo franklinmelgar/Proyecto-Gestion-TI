@@ -24,10 +24,10 @@ namespace Proyecto_Gestion_TI.Controllers
                 HttpContext.Session.SetString("codigo", obj.CodigoEmpleado.ToString());
                 HttpContext.Session.SetString("nombre", obj.NombreEmpleado);
                 HttpContext.Session.SetString("tipo", obj.CodigoTipoUsuario.ToString());
-
                 return RedirectToAction("Index", "Home");
             }
 
+            @ViewBag.Mensaje = "Usuario o Contrasena Incorrectos";
             return View(usu);
         }
     }

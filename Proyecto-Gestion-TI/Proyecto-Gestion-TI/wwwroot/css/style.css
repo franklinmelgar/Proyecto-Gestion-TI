@@ -583,6 +583,17 @@ a:focus {
     margin-top: 30px;
 }
 
+.margin_top_15 {
+    margin-top: 15px;
+}
+
+.margin_left_15 {
+    margin-left: 15px;
+}
+
+.margin_right_15 {
+    margin-right: 15px;
+}
 
 .margin_0 {
     margin: 0 !important;
@@ -1385,7 +1396,7 @@ a[data-toggle="collapse"] {
 .table_format.strp tbody td {
     font-size: 15px;
     padding: 20px 40px;
-    vertical-align: middle;
+    /*vertical-align: middle;*/
     font-weight: 400;
     transform: capitalize;
     line-height: 1;
@@ -2966,8 +2977,11 @@ ul.inbox-pagination li {
 }
 
 .view-message.inbox-small-cells i {
+    color: #FFFFFF;
     font-size: 17px;
 }
+
+
 
 ul.labels-category li p {
     margin: 0 0 5px 0;
@@ -3430,4 +3444,10 @@ table.projects tr td:first-child {
 #map {
     height: 100%;
     min-height: 720px;
+}
+
+
+
+.etiquetas {
+    color: red;
 }
