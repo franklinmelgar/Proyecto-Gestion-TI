@@ -7,68 +7,53 @@
 
     <div class="col-md-12">
         <div class="white_shd full margin_bottom_30">
-           
-            <div class="full inbox_inner_section">
+            <div class="full graph_head">
+                <a class="btn btn-primary btn-small" asp-area="" asp-controller="Consulta" asp-action="Create">
+                    <i class="fa fa-plus"></i> <span>Crear nueva consulta</span>
+                </a>
+            </div>
+            <div class="full price_table padding_infor_info">
                 <div class="row">
-                <div class="col-md-12">
-                    <div class="full padding_infor_info">
-                        <div class="mail-box">
-                            <aside class="lg-side">
-                                <div class="inbox-head">
-                                    <h3>Listado Consultas</h3>
-                                </div>
-                                <div class="inbox-body">
-                                    <table class="table table-inbox table-hover">
-                                        <tbody>
-                                            
-                                            @foreach (var item in Model)
-                                            {
-
-                                                <tr class="">
-                                                    <td class="inbox-small-cells">
-                                                        <div class="custom-control custom-checkbox">
-                                                            <input type="checkbox" class="custom-control-input" id="customCheck3">
-                                                            <label class="custom-control-label" for="customCheck3"></label>
-                                                        </div>
-                                                    </td>
-
-                                                    <td class="view-message">@item.CodigoConsulta </td>
-
-                                                    <td class="view-message dont-show">
-                                                        <a asp-action="Detail" asp-controller="Consulta" asp-route-id="@item.CodigoConsulta">
-                                                            @item.TituloConsulta
-                                                        </a>                                                
-                                                    </td>
-                                                    <td class="view-message">@item.DescripcionConsulta </td>
-                                                    <td class="view-message inbox-small-cells"><i class="fa fa-paperclip"></i></td>
-                                                    <td class="view-message inbox-small-cells"></td>
-                                                    <td class="view-message text-right">@Convert.ToDateTime(item.FechaConsulta).ToShortDateString()</td>
-                                                   
-
-                                                        @if(item.EstadoConsulta.Equals(1))
-                                                        {
-                                                            <td class="view-message text-right blue1_color">
-                                                                <button type="button" class="btn btn-success btn-xs">Abierto</button>                                                              
-                                                            </td>
-                                                        }
-                                                        else
-                                                        {
-                                                            <td class="view-message text-right red_color">                                                                
-                                                                <button type="button" class="btn btn-danger btn-xs">Cerrado</button>                                                               
-                                                            </td>
-                                                        }                         
-                                                
-                                                </tr>   
-                                            }
-                                            
-                                            
-
-                                           
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </aside>
-                        </div>
+                <div class="col-lg-12">
+                    <div class="table-responsive-sm">
+                        <table class="table table-striped projects">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th style="width: 2%">No</th>
+                                    <th style="width: 30%">Titulo Consulta</th>
+                                    <th>Fecha Creacion</th>
+                                    <th>Adjuntos</th>
+                                    <th>Estado</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>@item.CodigoConsulta</td>
+                                            <td>
+                                                <a asp-action="Detail" asp-controller="ComentariosConsulta" asp-route-id="@item.CodigoConsulta">@item.TituloConsulta</a>
+                                            </td>
+                                            <td>
+                                                <a>@Convert.ToDateTime(item.FechaConsulta).ToShortDateString()</a>
+                                            </td>
+                                            <td>
+                                                <i class="fa fa-paperclip"></i>
+                                            </td>
+                                            <td>
+                                                @if(item.EstadoConsulta.Equals(1))
+                                                {
+                                                    <button type="button" class="btn btn-success btn-xs">Abierto</button>
+                                                }
+                                                else
+                                                {
+                                                    <button type="button" class="btn btn-danger btn-xs">Cerrado</button>
+                                                }                                                
+                                            </td>
+                                        </tr>                                        
+                                    }                           
+                            </tbody>
+                        </table>
                     </div>
                 </div>
                 </div>

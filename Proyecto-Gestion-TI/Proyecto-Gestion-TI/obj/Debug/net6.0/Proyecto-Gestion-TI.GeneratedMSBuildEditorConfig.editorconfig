@@ -15,16 +15,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\frank\OneDrive\Documents\Clases Ceutec\Proyectos desarrollo\Proyecto-Gestion-TI\Proyecto-Gestion-TI\Proyecto-Gestion-TI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Consulta/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFcRGV0YWlsLmNzaHRtbA==
+[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/ComentariosConsulta/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb3NDb25zdWx0YVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Consulta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Consulta/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Consulta/_Comentarios.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFcX0NvbWVudGFyaW9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Create.cshtml]

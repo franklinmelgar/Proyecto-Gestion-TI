@@ -8,7 +8,7 @@ namespace Proyecto_Gestion_TI.Models
         public int CodigoComentario { get; set; }
         public int? CodigoConsulta { get; set; }
         public int? CodigoEmpleadoComentario { get; set; }
-        public string? Comentario { get; set; }
+        public string Comentario { get; set; }
         public DateTime? FechaComentario { get; set; }
 
         public virtual Consulta? CodigoConsultaNavigation { get; set; }

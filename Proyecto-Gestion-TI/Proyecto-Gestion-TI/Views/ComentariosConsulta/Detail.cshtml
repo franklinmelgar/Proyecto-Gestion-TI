@@ -1,8 +1,9 @@
-﻿@model Proyecto_Gestion_TI.Models.Consulta
+﻿@model Proyecto_Gestion_TI.Models.ComentariosConsulta
 @{
     ViewBag.Titulo = "Detalle de consulta";
 }
 @{
+    Consulta consulta = ViewData["Consulta"] as Consulta;
     IEnumerable<ComentariosConsulta> listaComentarios = ViewData["Comentarios"] as IEnumerable<ComentariosConsulta>;
 }
 
@@ -13,7 +14,7 @@
 
             <div class="full graph_head">
                 <div class="heading1 margin_0">
-                <h2>@Model.TituloConsulta</h2>
+                <h2>@consulta.TituloConsulta</h2>
                 </div>
             </div>
 
@@ -22,12 +23,12 @@
                 <div class="row margin_bottom_15">
                     <div class="col-6">
                         <label >Codigo de consulta</label>
-                        <span class="form-control">@Model.CodigoConsulta</span>
+                        <span class="form-control">@consulta.CodigoConsulta</span>
                     </div>
 
                     <div class="col-6">
                         <label>Fecha de creacion</label>
-                        <span class="form-control">@Convert.ToDateTime(Model.FechaConsulta).ToShortDateString()</span>
+                        <span class="form-control">@Convert.ToDateTime(consulta.FechaConsulta).ToShortDateString()</span>
                     </div>
                 </div>
                 
@@ -35,12 +36,12 @@
                     
                     <div class="col-6">
                         <label >Empleado</label>
-                        <span class="form-control">@Model.CodigoEmpleadoNavigation.NombreEmpleado</span>
+                        <span class="form-control">@consulta.CodigoEmpleadoNavigation.NombreEmpleado</span>
                     </div>
 
                     <div class="col-6">
                         <label>Estado</label>
-                        @if(Model.EstadoConsulta.Equals(1))
+                        @if(consulta.EstadoConsulta.Equals(1))
                         {
                             <span class="form-control">Abierto</span>
                         }
@@ -55,7 +56,7 @@
                 <div class="row margin_bottom_15">
                     <div class="col-12">
                         <label>Descripcion</label>
-                        <span class="form-control h-100">@Model.DescripcionConsulta</span>                                                
+                        <span class="form-control h-100">@consulta.DescripcionConsulta</span>                                                
                     </div>
                 </div>    
                 
@@ -83,7 +84,7 @@
                                         <li>
                                             <span><img src="~/images/layout_img/msg2.png" class="img-responsive" alt="#" /></span>
                                             <span>
-                                            <span class="name_user">@comentario.CodigoConsultaNavigation.CodigoEmpleadoNavigation.NombreEmpleado</span>
+                                            <span class="name_user">@comentario.CodigoEmpleadoComentarioNavigation.NombreEmpleado</span>
                                             <span class="msg_user">@comentario.Comentario</span>
                                             <span class="time_ago">@Convert.ToDateTime(comentario.FechaComentario).ToShortDateString()</span>
                                             </span>
@@ -102,26 +103,24 @@
    <div class="col-md-12">
         <div class="white_shd full margin_bottom_15">
 
-            <div class="table_section padding_infor_info">                
-                    
-                <div class="row margin_bottom_15">
-                    <div class="col-12">
-                        <textarea class="form-control" rows="4" placeholder="Haz un comentario" ></textarea>
+            <div class="table_section padding_infor_info">
+                <form asp-action="Detail">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group margin_bottom_15">
+                        <textarea asp-for="Comentario" class="form-control" rows="4" placeholder="Haz un comentario" ></textarea>
                     </div>
-                </div>
-                
-                <div class="row margin_bottom_15">
-                    <div class="col-6">
-                        
+                    <div class="form-group margin_bottom_15">
+                        <input type="submit" value="Agregra Comentario" class="btn btn-success float-right" />
                     </div>
 
-                    <div class="col-6">
-                        <button class="btn btn-success float-right">Agregar</button>
+                    <div class="form-group margin_bottom_15">
+                        <input asp-for="CodigoConsulta" hidden value="@consulta.CodigoConsulta" />
+                        <input asp-for="CodigoEmpleadoComentario" hidden value="@consulta.CodigoEmpleado" />
                     </div>
 
-                </div>
-                
+                </form>
             </div>
+
         </div> 
 
     </div>
