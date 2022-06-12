@@ -4,7 +4,7 @@ using Proyecto_Gestion_TI.Models;
 
 namespace Proyecto_Gestion_TI.Controllers
 {
-    public class ConsultaController : Controller
+    public class HistorialConsultaController : Controller
     {
         private readonly ILogger<ConsultaController> _logger;
         private GestionRRHHContext conexionBD = new GestionRRHHContext();
@@ -34,11 +34,6 @@ namespace Proyecto_Gestion_TI.Controllers
             return true;
         }
 
-        public ConsultaController(ILogger<ConsultaController> logger)
-        {
-            _logger = logger;
-        }
-
         public IActionResult Index()
         {
             if (!ValidarInicioSesion())
@@ -53,45 +48,38 @@ namespace Proyecto_Gestion_TI.Controllers
 
             if (tipo == "RRHH")
             {
-                listadoMisConsultas = conexionBD.Set<Consulta>().Include(C => C.CodigoEmpleadoNavigation).Where(a => a.EstadoConsulta.Equals((int)Estado.Abierto)).ToList();
+                listadoMisConsultas = conexionBD.Set<Consulta>().Include(C => C.CodigoEmpleadoNavigation).Where(a => a.EstadoConsulta.Equals((int)Estado.Cerrado)).ToList();
             }
             else
             {
-                listadoMisConsultas = conexionBD.Consulta.Where(a => a.CodigoEmpleado.Equals(int.Parse(codigo)) && a.EstadoConsulta.Equals((int)Estado.Abierto)).ToList();
-            }            
+                listadoMisConsultas = conexionBD.Consulta.Where(a => a.CodigoEmpleado.Equals(int.Parse(codigo)) && a.EstadoConsulta.Equals((int)Estado.Cerrado)).ToList();
+            }
+
+            //var listadoMisConsultas = conexionBD.Consulta.Where(a => a.CodigoEmpleado.Equals(int.Parse(codigo)) && a.EstadoConsulta.Equals((int)Estado.Cerrado));
 
             return View(listadoMisConsultas);
         }
 
-
-        public IActionResult Create()
+        public IActionResult Detail(int? Id)
         {
             if (!ValidarInicioSesion())
             {
                 return RedirectToAction("Index", "Login");
             }
+
+
+            if (Id == null)
+            {
+                return NotFound();
+            }
+
+            var comentarios = conexionBD.Set<ComentariosConsulta>().Include(CC => CC.CodigoConsultaNavigation).Include(CC => CC.CodigoEmpleadoComentarioNavigation).Where(CC => CC.CodigoConsulta.Equals(Id)).ToList();
+            var consulta = conexionBD.Set<Consulta>().Include(C => C.CodigoEmpleadoNavigation).Where(C => C.CodigoConsulta.Equals(Id)).FirstOrDefault();
+            ViewData["Consulta"] = consulta;
+            ViewData["Comentarios"] = comentarios;
+
 
             return View();
         }
-
-        [HttpPost]
-        public IActionResult Create(Consulta consulta)
-        {
-
-            if (!ValidarInicioSesion())
-            {
-                return RedirectToAction("Index", "Login");
-            }
-
-            GestionRRHHContext db = new GestionRRHHContext();
-            consulta.FechaConsulta = DateTime.Today;
-            consulta.CodigoEmpleado = int.Parse(codigo);
-            consulta.EstadoConsulta = 1;
-            db.Consulta.Add(consulta);
-            db.SaveChanges();
-
-            return RedirectToAction("Index");
-        }
-
     }
 }

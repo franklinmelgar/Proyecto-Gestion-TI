@@ -7,11 +7,6 @@
 
     <div class="col-md-12">
         <div class="white_shd full margin_bottom_30">
-            <div class="full graph_head">
-                <a class="btn btn-primary btn-small" asp-area="" asp-controller="Consulta" asp-action="Create">
-                    <i class="fa fa-plus"></i> <span>Crear nueva consulta</span>
-                </a>
-            </div>
             <div class="full price_table padding_infor_info">
                 <div class="row">
                 <div class="col-lg-12">
@@ -23,12 +18,10 @@
                                     <th style="width: 30%">Titulo Consulta</th>
                                     <th>Fecha Creacion</th>
                                     <th>Adjuntos</th>
-
-                                        @if (ViewBag.Tipo == "RRHH")
+                                    @if (ViewBag.Tipo == "RRHH")
                                         {
                                             <th>Empleado</th>
                                         }
-
                                     <th>Estado</th>
                                 </tr>
                             </thead>
@@ -38,7 +31,7 @@
                                         <tr>
                                             <td>@item.CodigoConsulta</td>
                                             <td>
-                                                <a asp-action="Detail" asp-controller="ComentariosConsulta" asp-route-id="@item.CodigoConsulta">@item.TituloConsulta</a>
+                                                <a asp-action="Detail" asp-controller="HistorialConsulta" asp-route-id="@item.CodigoConsulta">@item.TituloConsulta</a>
                                             </td>
                                             <td>
                                                 <a>@Convert.ToDateTime(item.FechaConsulta).ToShortDateString()</a>
@@ -46,7 +39,7 @@
                                             <td>
                                                 <i class="fa fa-paperclip"></i>
                                             </td>
-
+                                            
                                             @if(ViewBag.Tipo == "RRHH")
                                             {
                                                 <td>

@@ -1,0 +1,102 @@
+﻿@{
+    ViewBag.Titulo = "Detalle de consulta";
+}
+@{
+    Consulta consulta = ViewData["Consulta"] as Consulta;
+    IEnumerable<ComentariosConsulta> listaComentarios = ViewData["Comentarios"] as IEnumerable<ComentariosConsulta>;
+}
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="white_shd full margin_bottom_15">
+
+            <div class="full graph_head">
+                <div class="heading1 margin_0">
+                <h2>@consulta.TituloConsulta</h2>
+                </div>
+            </div>
+
+            <div class="table_section padding_infor_info">                
+                    
+                <div class="row margin_bottom_15">
+                    <div class="col-6">
+                        <label >Codigo de consulta</label>
+                        <span class="form-control">@consulta.CodigoConsulta</span>
+                    </div>
+
+                    <div class="col-6">
+                        <label>Fecha de creacion</label>
+                        <span class="form-control">@Convert.ToDateTime(consulta.FechaConsulta).ToShortDateString()</span>
+                    </div>
+                </div>
+                
+                <div class="row margin_bottom_15">
+                    
+                    <div class="col-6">
+                        <label >Empleado</label>
+                        <span class="form-control">@consulta.CodigoEmpleadoNavigation.NombreEmpleado</span>
+                    </div>
+
+                    <div class="col-6">
+                        <label>Estado</label>
+                        @if(consulta.EstadoConsulta.Equals(1))
+                        {
+                            <span class="form-control">Abierto</span>
+                        }
+                        else
+                        {
+                            <span class="form-control">Cerrado</span>   
+                        }                         
+                    </div>
+                    
+                </div>
+
+                <div class="row margin_bottom_15">
+                    <div class="col-12">
+                        <label>Descripcion</label>
+                        <span class="form-control h-100">@consulta.DescripcionConsulta</span>                                                
+                    </div>
+                </div>    
+                
+            </div>
+        </div> 
+
+    </div>
+
+    <div class="col-md-12">
+        <div class="white_shd full margin_0">
+            <div class="full graph_head">
+                <div class="heading1 margin_0">
+                <h2>Comentarios</h2>
+                </div>
+            </div>
+            <div class="full progress_bar_inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="msg_section">
+                            <div class="msg_list_main">
+                                <ul class="msg_list">
+
+                                    @foreach (var comentario in listaComentarios)
+                                    {
+                                        <li>
+                                            <span><img src="~/images/layout_img/msg2.png" class="img-responsive" alt="#" /></span>
+                                            <span>
+                                            <span class="name_user">@comentario.CodigoEmpleadoComentarioNavigation.NombreEmpleado</span>
+                                            <span class="msg_user">@comentario.Comentario</span>
+                                            <span class="time_ago">@Convert.ToDateTime(comentario.FechaComentario).ToShortDateString()</span>
+                                            </span>
+                                        </li>
+                                    }                                
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+   </div>
+
+</div>

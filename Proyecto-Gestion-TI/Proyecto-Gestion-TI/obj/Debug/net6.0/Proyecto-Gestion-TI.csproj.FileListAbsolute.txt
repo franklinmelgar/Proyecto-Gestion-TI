@@ -265,3 +265,4 @@ C:\Users\frank\OneDrive\Documents\Clases Ceutec\Proyectos desarrollo\Proyecto-Ge
 C:\Users\frank\OneDrive\Documents\Clases Ceutec\Proyectos desarrollo\Proyecto-Gestion-TI\Proyecto-Gestion-TI\Proyecto-Gestion-TI\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\frank\OneDrive\Documents\Clases Ceutec\Proyectos desarrollo\Proyecto-Gestion-TI\Proyecto-Gestion-TI\Proyecto-Gestion-TI\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\frank\OneDrive\Documents\Clases Ceutec\Proyectos desarrollo\Proyecto-Gestion-TI\Proyecto-Gestion-TI\Proyecto-Gestion-TI\obj\Debug\net6.0\Proyecto-Gestion-TI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\frank\OneDrive\Documents\Clases Ceutec\Proyectos desarrollo\Proyecto-Gestion-TI\Proyecto-Gestion-TI\Proyecto-Gestion-TI\obj\Debug\net6.0\Proyecto-Gestion-TI.csproj.AssemblyReference.cache
