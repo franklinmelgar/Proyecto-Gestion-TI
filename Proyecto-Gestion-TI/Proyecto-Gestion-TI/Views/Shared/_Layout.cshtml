@@ -54,15 +54,12 @@
                         <li><a href="#"><i class="fa fa-map purple_color2"></i> <span>Solicitud de Vacaciones</span></a></li>
 
                         <li>
-                            <a href="#element" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-inbox green_color"></i> <span>Consulta</span></a>
-                            <ul class="collapse list-unstyled" id="element">
+                            <a href="#consulta" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-inbox green_color"></i> <span>Consulta</span></a>
+                            <ul class="collapse list-unstyled" id="consulta">
                                 <li><a asp-area="" asp-controller="Consulta" asp-action="Index">> <span>Consultas</span></a></li>
                                 <li><a asp-area="" asp-controller="HistorialConsulta" asp-action="Index">> <span>Historial</span></a></li>                                
                             </ul>
                         </li>
-
-
-                        @*<li><a asp-area="" asp-controller="Consulta" asp-action="Index"><i class="fa fa-inbox green_color"></i> <span>Consultas</span></a></li>*@
 
                         @if(ViewBag.Tipo == "Administrador")
                         {
