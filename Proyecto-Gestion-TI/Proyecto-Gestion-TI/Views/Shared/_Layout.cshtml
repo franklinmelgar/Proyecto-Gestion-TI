@@ -66,10 +66,12 @@
                             <li>
                                 <a href="#element" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-cog yellow_color"></i> <span>Configuracion</span></a>
                                 <ul class="collapse list-unstyled" id="element">
-                                    <li><a >> <span>Departamento</span></a></li>
+                                    <li><a asp-area="" asp-controller="Empleados" asp-action="Index">> <span>Empleados</span></a></li>
+                                    <li><a asp-area="" asp-controller="Departamento" asp-action="Index">> <span>Departamentos</span></a></li>
                                     <li><a asp-area="" asp-controller="Puesto" asp-action="Index">> <span>Puesto</span></a></li>
-                                    <li><a >> <span>Tipo de Usuario</span></a></li>
-                                    <li><a >> <span>Ruta de Aprobaciones</span></a></li>
+                                    <li><a asp-area="" asp-controller="TipoUsuarios" asp-action="Index">> <span>Tipos de Usuarios</span></a></li>
+                                    <li><a asp-area="" asp-controller="RutaAprobacion" asp-action="Index">> <span>Rutas de Aprobacion</span></a></li>
+                                    <li><a asp-area="" asp-controller="Vacaciones" asp-action="Index">> <span>Vacaciones</span></a></li>
                                 </ul>
                             </li>   
                         }

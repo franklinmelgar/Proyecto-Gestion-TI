@@ -1,0 +1,66 @@
+﻿ @model Proyecto_Gestion_TI.Models.RutaAprobacion
+
+@{
+    ViewBag.Titulo = "Modificar Ruta de Aprobacion";
+    List<SelectListItem> puestos = (List<SelectListItem>)ViewBag.puesto;
+    List<SelectListItem> departamentosDeLaEmpresa = (List<SelectListItem>)ViewBag.departamento;
+    List<SelectListItem> tiposDeUsuario = (List<SelectListItem>)ViewBag.tipoDeUsuario;
+    List<SelectListItem> jefesEmpleados = (List<SelectListItem>)ViewBag.jefesDeEmpleados;
+}
+
+<div class="row">
+
+	<div class="col-md-4">
+
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CodigoRuta" />
+
+            <div class="form-group">
+
+                <label asp-for="CodigoAprobador" class="control-label"></label>
+                <input asp-for="CodigoAprobador" class="form-control" />
+                <span asp-validation-for="CodigoAprobador" class="text-danger"></span>
+
+                <label asp-for="CodigoDepartamento" class="control-label"></label>
+                <input asp-for="CodigoDepartamento" class="form-control" />
+                <span asp-validation-for="CodigoDepartamento" class="text-danger"></span>
+                
+                <label asp-for="Descripcion" class="control-label"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+
+                <label asp-for="NivelAprobacion" class="control-label"></label>
+                <input asp-for="NivelAprobacion" class="form-control" />
+                <span asp-validation-for="NivelAprobacion" class="text-danger"></span>
+           
+               @*@Html.LabelFor(model => model.CodigoDepartamento, "Departamento", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoDepartamento", departamentosDeLaEmpresa, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoDepartamento, "", new { @class = "text-danger" })
+
+               @Html.LabelFor(model => model.CodigoPuesto, "Puesto", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoPuesto", puestos, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoPuesto, "", new { @class = "text-danger" })
+
+               @Html.LabelFor(model => model.CodigoTipoUsuario, "Tipo de Usuario", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoTipoUsuario", tiposDeUsuario, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoTipoUsuario, "", new { @class = "text-danger" })           
+       
+               @Html.LabelFor(model => model.CodigoJefe, "Supervisor", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoJefe", jefesEmpleados, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoJefe, "", new { @class = "text-danger" })           
+       
+*@
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Modificar Ruta" class="btn btn-primary" />
+                <a class="btn btn-info btn-small" asp-area="" asp-controller="RutaAprobacion" asp-action="Index">
+                     <span>Regresar</span>
+                </a>
+            </div>
+        </form>
+    </div>
+
+
+
+</div>
