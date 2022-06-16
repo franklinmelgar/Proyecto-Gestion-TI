@@ -11,7 +11,6 @@ namespace Proyecto_Gestion_TI.Models
         }
 
         public int CodigoSolicitud { get; set; }
-        public string TipoSolicitud { get; set; } = null!;
         public string? DescripcionSolicitud { get; set; }
         public DateTime FechaInicial { get; set; }
         public DateTime FechaFinal { get; set; }

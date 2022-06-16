@@ -246,6 +246,12 @@ namespace Proyecto_Gestion_TI.Models
 
                 entity.Property(e => e.NivelAprobacion).HasColumnName("nivelAprobacion");
 
+                entity.HasOne(d => d.CodigoAprobadorNavigation)
+                    .WithMany(p => p.RutaAprobacions)
+                    .HasForeignKey(d => d.CodigoAprobador)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_RutaAprobacion_Empleado");
+
                 entity.HasOne(d => d.CodigoDepartamentoNavigation)
                     .WithMany(p => p.RutaAprobacions)
                     .HasForeignKey(d => d.CodigoDepartamento)
@@ -278,11 +284,6 @@ namespace Proyecto_Gestion_TI.Models
                 entity.Property(e => e.FechaInicial)
                     .HasColumnType("datetime")
                     .HasColumnName("fechaInicial");
-
-                entity.Property(e => e.TipoSolicitud)
-                    .HasMaxLength(30)
-                    .IsUnicode(false)
-                    .HasColumnName("tipoSolicitud");
 
                 entity.HasOne(d => d.CodigoEmpleadoNavigation)
                     .WithMany(p => p.SolicitudVacaciones)

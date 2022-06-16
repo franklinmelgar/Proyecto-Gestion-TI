@@ -1,0 +1,26 @@
+﻿@model Proyecto_Gestion_TI.Models.Departamento
+
+@{
+    ViewBag.Titulo = "Eliminar Departamento";
+}
+
+<div>
+    <h4>Departamento</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NombreDepartamento)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NombreDepartamento)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="CodigoDepartamento" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a class="btn btn-info btn-small" asp-area="" asp-controller="Departamento" asp-action="Index">
+                <span>Regresar</span>
+        </a>
+    </form>
+</div>

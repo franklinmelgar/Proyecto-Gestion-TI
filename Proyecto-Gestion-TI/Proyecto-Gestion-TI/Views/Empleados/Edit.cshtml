@@ -1,7 +1,11 @@
-﻿@model Proyecto_Gestion_TI.Models.Empleado
+﻿ @model Proyecto_Gestion_TI.Models.Empleado
 
 @{
     ViewBag.Titulo = "Modificar Empleado";
+    List<SelectListItem> puestos = (List<SelectListItem>)ViewBag.puesto;
+    List<SelectListItem> departamentosDeLaEmpresa = (List<SelectListItem>)ViewBag.departamento;
+    List<SelectListItem> tiposDeUsuario = (List<SelectListItem>)ViewBag.tipoDeUsuario;
+    List<SelectListItem> jefesEmpleados = (List<SelectListItem>)ViewBag.jefesDeEmpleados;
 }
 
 <div class="row">
@@ -28,11 +32,23 @@
                 <label asp-for="Dni" class="control-label"></label>
                 <input asp-for="Dni" class="form-control" />
                 <span asp-validation-for="Dni" class="text-danger"></span>
+           
+               @Html.LabelFor(model => model.CodigoDepartamento, "Departamento", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoDepartamento", departamentosDeLaEmpresa, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoDepartamento, "", new { @class = "text-danger" })
 
-                <label asp-for="CodigoPuesto" class="control-label"></label>
-                <input asp-for="CodigoPuesto" class="form-control" />
-                <span asp-validation-for="CodigoPuesto" class="text-danger"></span>
+               @Html.LabelFor(model => model.CodigoPuesto, "Puesto", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoPuesto", puestos, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoPuesto, "", new { @class = "text-danger" })
 
+               @Html.LabelFor(model => model.CodigoTipoUsuario, "Tipo de Usuario", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoTipoUsuario", tiposDeUsuario, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoTipoUsuario, "", new { @class = "text-danger" })           
+       
+               @Html.LabelFor(model => model.CodigoJefe, "Supervisor", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoJefe", jefesEmpleados, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoJefe, "", new { @class = "text-danger" })           
+       
                 <label asp-for="FechaIngreso" class="control-label"></label>
                 <input asp-for="FechaIngreso" class="form-control" />
                 <span asp-validation-for="FechaIngreso" class="text-danger"></span>

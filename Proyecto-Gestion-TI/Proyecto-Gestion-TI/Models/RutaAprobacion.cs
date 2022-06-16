@@ -16,6 +16,7 @@ namespace Proyecto_Gestion_TI.Models
         public int NivelAprobacion { get; set; }
         public int CodigoDepartamento { get; set; }
 
+        public virtual Empleado CodigoAprobadorNavigation { get; set; } = null!;
         public virtual Departamento CodigoDepartamentoNavigation { get; set; } = null!;
         public virtual ICollection<AprobacionXsolicitud> AprobacionXsolicituds { get; set; }
     }

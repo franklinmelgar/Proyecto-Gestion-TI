@@ -1,0 +1,133 @@
+﻿@{
+    ViewBag.Titulo = "Detalle de solicitud";
+}
+@{
+    SolicitudVacacione solicitud = ViewData["Solicitud"] as SolicitudVacacione;
+    IEnumerable<RutaAprobacion> listaAprobadores = ViewData["Aprobadores"] as IEnumerable<RutaAprobacion>;
+}
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="white_shd full margin_bottom_15">
+
+            @*<div class="full graph_head">
+                <div class="heading1 margin_0">
+                <h2>@solicitud.TituloConsulta</h2>
+                </div>
+            </div>*@
+
+            <div class="table_section padding_infor_info">                
+                    
+                <div class="row margin_bottom_15">
+                    <div class="col-6">
+                        <label >Codigo de consulta</label>
+                        <span class="form-control">@solicitud.CodigoSolicitud</span>
+                    </div>
+
+                    <div class="col-6">
+                        <label>Fecha de creacion</label>
+                        <span class="form-control">@solicitud.CantidadDias</span>
+                    </div>
+                </div>
+                
+                <div class="row margin_bottom_15">  
+
+                    <div class="col-6">
+                        <label >Empleado</label>
+                        <span class="form-control">@Convert.ToDateTime(solicitud.FechaInicial).ToShortDateString()</span>
+                    </div>
+
+                    <div class="col-6">
+                        <label >Empleado</label>
+                        <span class="form-control">@Convert.ToDateTime(solicitud.FechaFinal).ToShortDateString()</span>
+                    </div>
+
+                </div>
+
+                <div class="row margin_bottom_15">
+                    <div class="col-12">
+                        <label>Descripcion</label>
+                        <span class="form-control h-100">@solicitud.DescripcionSolicitud</span>                                                
+                    </div>
+                </div>    
+                
+            </div>
+        </div> 
+
+    </div>
+
+    <div class="col-md-12">
+        <div class="white_shd full margin_0">
+            <div class="full graph_head">
+                <div class="heading1 margin_0">
+                <h2>Aprobadores</h2>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <div class="white_shd full margin_bottom_30">
+                    <div class="table_section padding_infor_info">
+                        <div class="table-responsive-sm">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Nivel</th>
+                                    <th>Nombre Aprobador</th>
+                                    <th>Descripcion</th>
+                                    <th>Estado</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                @foreach (var aprobador in listaAprobadores)
+                                    {
+
+                                        <tr>
+                                            <td>@aprobador.NivelAprobacion</td>
+                                            <td>@aprobador.CodigoAprobadorNavigation.NombreEmpleado</td>
+                                            <td>@aprobador.Descripcion</td>
+                                            <td></td>                                            
+                                        </tr>
+                                        
+                                    }
+
+                                
+                            </tbody>
+                        </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            @*<div class="full progress_bar_inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="msg_section">
+                            <div class="msg_list_main">
+                                <ul class="msg_list">
+
+                                    @foreach (var aprobador in listaAprobadores)
+                                    {
+                                        <li>
+                                            <span><img src="~/images/layout_img/msg2.png" class="img-responsive" alt="#" /></span>
+                                            <span>
+                                            <span class="name_user">@aprobador.CodigoAprobadorNavigation.NombreEmpleado</span>
+                                            <span class="msg_user">@aprobador.NivelAprobacion</span>                                            
+                                            </span>
+                                        </li>
+                                    }                                
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>*@
+        </div>
+   </div>
+
+</div>

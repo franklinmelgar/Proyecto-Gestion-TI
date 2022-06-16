@@ -1,0 +1,50 @@
+﻿@model Proyecto_Gestion_TI.Models.SolicitudVacacione
+@{
+	ViewBag.Titulo = "Crear nueva solicitud de vacaciones";
+}
+
+<div class="row">
+
+	<div class="col-md-4">
+
+        @if (@ViewBag.Mensaje != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                @ViewBag.Mensaje
+            </div>
+        }        
+
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FechaInicial" class="control-label"></label>
+                <input asp-for="FechaInicial" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaFinal" class="control-label"></label>
+                <input asp-for="FechaFinal" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CantidadDias" class="control-label"></label>
+                <input asp-for="CantidadDias" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DescripcionSolicitud" class="control-label"></label>
+                <textarea asp-for="DescripcionSolicitud" class="form-control" rows="4"></textarea>
+                
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Crear Solicitud" class="btn btn-primary" />
+                <a class="btn btn-info btn-small" asp-area="" asp-controller="SolicitudVacaciones" asp-action="Index">
+                     <span>Regresar</span>
+                </a>
+            </div>
+        </form>
+    </div>
+
+
+
+</div>

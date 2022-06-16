@@ -33,5 +33,7 @@ namespace Proyecto_Gestion_TI.Models
         public virtual ICollection<Consulta> Consulta { get; set; }
         public virtual ICollection<SolicitudVacacione> SolicitudVacaciones { get; set; }
         public virtual ICollection<VacacionesXempleado> VacacionesXempleados { get; set; }
+
+        public virtual ICollection<RutaAprobacion> RutaAprobacions { get; set; }
     }
 }
