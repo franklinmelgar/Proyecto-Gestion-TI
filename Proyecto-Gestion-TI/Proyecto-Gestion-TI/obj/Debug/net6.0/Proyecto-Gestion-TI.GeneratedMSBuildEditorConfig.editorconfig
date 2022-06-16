@@ -8,97 +8,117 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Proyecto_Gestion_TI
 build_property.RootNamespace = Proyecto_Gestion_TI
-build_property.ProjectDir = C:\Users\frank\OneDrive\Documents\Clases Ceutec\Proyectos desarrollo\Proyecto-Gestion-TI\Proyecto-Gestion-TI\Proyecto-Gestion-TI\
+build_property.ProjectDir = C:\Proyecto\Proyecto-Gestion-TI\Proyecto-Gestion-TI\Proyecto-Gestion-TI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\frank\OneDrive\Documents\Clases Ceutec\Proyectos desarrollo\Proyecto-Gestion-TI\Proyecto-Gestion-TI\Proyecto-Gestion-TI
+build_property.MSBuildProjectDirectory = C:\Proyecto\Proyecto-Gestion-TI\Proyecto-Gestion-TI\Proyecto-Gestion-TI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/ComentariosConsulta/Detail.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/ComentariosConsulta/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tZW50YXJpb3NDb25zdWx0YVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Consulta/Create.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Consulta/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Consulta/Index.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Consulta/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Create.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Departamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Departamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Departamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Departamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Departamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Delete.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Details.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Edit.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Index.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Empleados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/HistorialConsulta/Detail.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/HistorialConsulta/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsQ29uc3VsdGFcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/HistorialConsulta/Index.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/HistorialConsulta/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsQ29uc3VsdGFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Home/Index.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Login/Index.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Puesto/Create.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Puesto/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVlc3RvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Puesto/Delete.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Puesto/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVlc3RvXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Puesto/Edit.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Puesto/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVlc3RvXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Puesto/Index.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Puesto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVlc3RvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Shared/Error.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Shared/_LayoutLogin.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Shared/_LayoutLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/_ViewImports.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/_ViewStart.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank/OneDrive/Documents/Clases Ceutec/Proyectos desarrollo/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Shared/_Layout.cshtml]
+[C:/Proyecto/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Proyecto-Gestion-TI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-17qbipknii

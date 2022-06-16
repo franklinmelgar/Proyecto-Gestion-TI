@@ -1,80 +1,80 @@
 ﻿@model Proyecto_Gestion_TI.Models.Empleado
-
 @{
-    ViewData["Title"] = "Create";
+    ViewBag.Titulo = "Crear Empleado";
+    List<SelectListItem> puestos = (List<SelectListItem>)ViewBag.puesto;
+    List<SelectListItem> departamentosDeLaEmpresa = (List<SelectListItem>)ViewBag.departamento;
+    List<SelectListItem> tiposDeUsuario = (List<SelectListItem>)ViewBag.tipoDeUsuario;
+    List<SelectListItem> jefesEmpleados = (List<SelectListItem>)ViewBag.jefesDeEmpleados;
 }
 
-<h1>Create</h1>
-
-<h4>Empleado</h4>
-<hr />
 <div class="row">
-    <div class="col-md-4">
+
+	<div class="col-md-4">
+
+        @if (@ViewBag.Mensaje != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                @ViewBag.Mensaje
+            </div>
+        }        
+
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="NombreEmpleado" class="control-label"></label>
+ 
+                 <label asp-for="NombreEmpleado" class="control-label"></label>
                 <input asp-for="NombreEmpleado" class="form-control" />
                 <span asp-validation-for="NombreEmpleado" class="text-danger"></span>
-            </div>
-            <div class="form-group">
+
                 <label asp-for="Telefono" class="control-label"></label>
                 <input asp-for="Telefono" class="form-control" />
                 <span asp-validation-for="Telefono" class="text-danger"></span>
-            </div>
-            <div class="form-group">
+
                 <label asp-for="Correo" class="control-label"></label>
                 <input asp-for="Correo" class="form-control" />
                 <span asp-validation-for="Correo" class="text-danger"></span>
-            </div>
-            <div class="form-group">
+
+                
                 <label asp-for="Contrasena" class="control-label"></label>
                 <input asp-for="Contrasena" class="form-control" />
                 <span asp-validation-for="Contrasena" class="text-danger"></span>
-            </div>
-            <div class="form-group">
+
+
                 <label asp-for="Dni" class="control-label"></label>
                 <input asp-for="Dni" class="form-control" />
                 <span asp-validation-for="Dni" class="text-danger"></span>
-            </div>
-            <div class="form-group">
+           
+               @Html.LabelFor(model => model.CodigoDepartamento, "Departamento", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoDepartamento", departamentosDeLaEmpresa, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoDepartamento, "", new { @class = "text-danger" })
+
+               @Html.LabelFor(model => model.CodigoPuesto, "Puesto", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoPuesto", puestos, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoPuesto, "", new { @class = "text-danger" })
+
+               @Html.LabelFor(model => model.CodigoTipoUsuario, "Tipo de Usuario", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoTipoUsuario", tiposDeUsuario, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoTipoUsuario, "", new { @class = "text-danger" })           
+       
+               @Html.LabelFor(model => model.CodigoJefe, "Supervisor", htmlAttributes: new { @class = "control-label col-md-10" })
+               @Html.DropDownList("CodigoJefe", jefesEmpleados, htmlAttributes: new { @class = "form-control" })
+               @Html.ValidationMessageFor(model => model.CodigoJefe, "", new { @class = "text-danger" })           
+       
                 <label asp-for="FechaIngreso" class="control-label"></label>
                 <input asp-for="FechaIngreso" class="form-control" />
                 <span asp-validation-for="FechaIngreso" class="text-danger"></span>
+
+
             </div>
             <div class="form-group">
-                <label asp-for="Antiguedad" class="control-label"></label>
-                <input asp-for="Antiguedad" class="form-control" />
-                <span asp-validation-for="Antiguedad" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="CodigoPuesto" class="control-label"></label>
-                <select asp-for="CodigoPuesto" class ="form-control" asp-items="ViewBag.CodigoPuesto"></select>
-            </div>
-            <div class="form-group">
-                <label asp-for="CodigoJefe" class="control-label"></label>
-                <input asp-for="CodigoJefe" class="form-control" />
-                <span asp-validation-for="CodigoJefe" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="CodigoDepartamento" class="control-label"></label>
-                <select asp-for="CodigoDepartamento" class ="form-control" asp-items="ViewBag.CodigoDepartamento"></select>
-            </div>
-            <div class="form-group">
-                <label asp-for="CodigoTipoUsuario" class="control-label"></label>
-                <select asp-for="CodigoTipoUsuario" class ="form-control" asp-items="ViewBag.CodigoTipoUsuario"></select>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Crear Empleado" class="btn btn-primary" />
+                <a class="btn btn-info btn-small" asp-area="" asp-controller="Empleados" asp-action="Create">
+                     <span>Regresar</span>
+                </a>
             </div>
         </form>
     </div>
-</div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
 
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}
+
+</div>

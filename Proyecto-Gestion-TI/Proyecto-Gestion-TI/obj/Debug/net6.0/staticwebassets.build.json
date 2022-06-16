@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EOSLgJ2kiYZ1HWSuRJ60x37AsWIwnNn4/NqdKprpwGk=",
+  "Hash": "y1OQ7xZKpQrlZJ2gNsZ4rSUMipa8cL9QXInvLqX7Nzk=",
   "Source": "Proyecto-Gestion-TI",
   "BasePath": "_content/Proyecto-Gestion-TI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Proyecto-Gestion-TI\\wwwroot",
       "Source": "Proyecto-Gestion-TI",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Proyecto-Gestion-TI.styles.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Proyecto-Gestion-TI.styles.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "Proyecto-Gestion-TI.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Proyecto-Gestion-TI.styles.css"
+      "OriginalItemSpec": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Proyecto-Gestion-TI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto-Gestion-TI.bundle.scp.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto-Gestion-TI.bundle.scp.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "Proyecto-Gestion-TI.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto-Gestion-TI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto-Gestion-TI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\animate.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\animate.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\baguetteBox.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\baguetteBox.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/baguetteBox.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\baguetteBox.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-select.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\bootstrap-select.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/bootstrap-select.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-select.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\calendar.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\calendar.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/calendar.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\calendar.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\calendar.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\calendar.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/calendar.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\calendar.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\color_2.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\color_2.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/color_2.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\color_2.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\custom.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\custom.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/custom.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\flaticon.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\flaticon.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/flaticon.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\flaticon.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\font-awesome.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\font-awesome.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/font-awesome.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\jquery.fancybox.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\jquery.fancybox.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/jquery.fancybox.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.fancybox.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\jquery.fancybox.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\jquery.fancybox.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/jquery.fancybox.min.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery.fancybox.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\owl.carousel.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\owl.carousel.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/owl.carousel.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\perfect-scrollbar.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\perfect-scrollbar.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/perfect-scrollbar.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\css\\perfect-scrollbar.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\responsive.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\semantic.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\semantic.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/semantic.min.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\css\\semantic.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\site.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\css\\style.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\favicon.ico",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\_flaticon.scss",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\_flaticon.scss",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/_flaticon.scss",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\_flaticon.scss"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\flaticon.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\flaticon.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/flaticon.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\Flaticon.eot",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\Flaticon.eot",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/Flaticon.eot",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Flaticon.eot"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\flaticon.html",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\flaticon.html",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/flaticon.html",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flaticon.html"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\Flaticon.svg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\Flaticon.svg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/Flaticon.svg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Flaticon.svg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\Flaticon.ttf",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\Flaticon.ttf",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/Flaticon.ttf",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Flaticon.ttf"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\Flaticon.woff",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\Flaticon.woff",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "fonts/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/landing_page/stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\.DS_Store",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\.DS_Store",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/.DS_Store",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\american-express.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\american-express.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/american-express.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\american-express.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\bg1.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\bg1.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/bg1.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\bg1.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\error.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\error.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/error.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\error.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g1.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g1.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g1.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g1.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g10.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g10.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g10.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g10.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g11.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g11.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g11.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g11.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g12.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g12.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g12.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g12.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g13.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g13.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g13.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g13.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g14.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g14.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g14.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g14.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g15.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g15.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g15.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g15.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g16.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g16.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g16.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g16.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g2.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g2.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g2.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g2.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g3.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g3.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g3.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g3.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g4.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g4.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g4.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g4.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g5.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g5.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g5.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g5.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g6.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g6.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g6.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g6.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g7.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g7.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g7.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g7.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g8.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g8.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g8.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g8.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g9.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\g9.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/g9.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\g9.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\login_image.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\login_image.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/login_image.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\login_image.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\map_icon.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\map_icon.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/map_icon.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\map_icon.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\mastercard.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\mastercard.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/mastercard.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\mastercard.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\msg1.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\msg1.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/msg1.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\msg1.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\msg2.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\msg2.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/msg2.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\msg2.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\msg3.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\msg3.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/msg3.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\msg3.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\msg4.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\msg4.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/msg4.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\msg4.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\msg5.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\msg5.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/msg5.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\msg5.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\pattern.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\pattern.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/pattern.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\pattern.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\pattern_h.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\pattern_h.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/pattern_h.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\pattern_h.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\paypal.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\paypal.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/paypal.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\paypal.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\user_img.jpg",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\user_img.jpg",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/user_img.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\user_img.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\visa.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\layout_img\\visa.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/layout_img/visa.png",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\layout_img\\visa.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\logo\\logo.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\logo\\logo.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/logo/logo.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\logo\\logo_black.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\logo\\logo_black.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/logo/logo_black.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\logo_black.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\logo\\logo_icon.png",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\images\\logo\\logo_icon.png",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "images/logo/logo_icon.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo\\logo_icon.png"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\analyser.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\analyser.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/analyser.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\analyser.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\animate.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\animate.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/animate.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\js\\animate.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.js.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap-select.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\bootstrap-select.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/bootstrap-select.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap-select.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\calendar.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\calendar.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/calendar.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\js\\calendar.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\calendar.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\calendar.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/calendar.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\js\\calendar.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\Chart.bundle.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\Chart.bundle.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/Chart.bundle.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Chart.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\Chart.bundle.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\Chart.bundle.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/Chart.bundle.min.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Chart.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\Chart.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\Chart.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/Chart.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Chart.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\Chart.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\Chart.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/Chart.min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\chart_custom_style1.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\chart_custom_style1.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/chart_custom_style1.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chart_custom_style1.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\chart_custom_style2.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\chart_custom_style2.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/chart_custom_style2.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\js\\chart_custom_style2.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\custom.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\custom_chart.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\custom_chart.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/custom_chart.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom_chart.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\jquery.fancybox.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\jquery.fancybox.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/jquery.fancybox.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.fancybox.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\jquery.fancybox.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\jquery.fancybox.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/jquery.fancybox.min.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.fancybox.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\jquery.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\jquery-3.3.1.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\owl.carousel.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\owl.carousel.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/owl.carousel.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\perfect-scrollbar.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\perfect-scrollbar.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/perfect-scrollbar.min.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\js\\perfect-scrollbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\popper.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/popper.min.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\semantic.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\semantic.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/semantic.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\js\\semantic.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\settings.html",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\settings.html",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/settings.html",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\js\\settings.html"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\site.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\utils.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\js\\utils.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "js/utils.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\js\\utils.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Proyecto-Gestion-TI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
+      "ContentRoot": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\wwwroot\\",
       "BasePath": "_content/Proyecto-Gestion-TI",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

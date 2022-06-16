@@ -9987,19 +9987,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\frank\\.nuget\\packages\\": {}
+    "C:\\Users\\Obed\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI.csproj",
+      "projectUniqueName": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI.csproj",
       "projectName": "Proyecto-Gestion-TI",
-      "projectPath": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI.csproj",
-      "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frank\\OneDrive\\Documents\\Clases Ceutec\\Proyectos desarrollo\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\",
+      "projectPath": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI.csproj",
+      "packagesPath": "C:\\Users\\Obed\\.nuget\\packages\\",
+      "outputPath": "C:\\Proyecto\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\Proyecto-Gestion-TI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Obed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10070,7 +10075,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

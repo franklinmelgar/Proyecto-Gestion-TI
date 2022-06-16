@@ -32,9 +32,6 @@ namespace Proyecto_Gestion_TI.Controllers
             return true;
         }
 
-
-
-
         public EmpleadosController(ILogger<EmpleadosController> logger)
         {
             _logger = logger;
@@ -59,36 +56,57 @@ namespace Proyecto_Gestion_TI.Controllers
                 return RedirectToAction("Index", "Login");
             }
 
+            ListasDesplegables listas = new ListasDesplegables();
+
+            ViewBag.puesto = listas.GenerarlistaDesplegableDePuestos();
+            ViewBag.departamento = listas.GenerarListaDesplegableDeDepartamentos();
+            ViewBag.tipoDeUsuario = listas.GenerarlistaDesplegableDeTiposDeUsuario();
+            ViewBag.jefesDeEmpleados = listas.GenerarlistaDesplegableDeJefes();
             return View();
         }
 
         [HttpPost]
         public IActionResult Create(Empleado empleado)
         {
+            bool elModeloEstaCorrecto = ModelState.IsValid;
+            if (elModeloEstaCorrecto) 
+            {
+            }
             GestionRRHHContext db = new GestionRRHHContext();
-            db.Empleado.Add(empleado);
+            db.Add(empleado);
             db.SaveChanges();
+
+            ListasDesplegables listas = new ListasDesplegables();
+
+            ViewBag.puesto = listas.GenerarlistaDesplegableDePuestos();
+            ViewBag.departamento = listas.GenerarListaDesplegableDeDepartamentos();
+            ViewBag.tipoDeUsuario = listas.GenerarlistaDesplegableDeTiposDeUsuario();
+            ViewBag.jefesDeEmpleados = listas.GenerarlistaDesplegableDeJefes();
+         
             return View(empleado);
         }
 
         public IActionResult Edit(int? id)
         {
+            
             if (!EstaLaSesionActiva())
             {
                 return RedirectToAction("Index", "Login");
             }
 
-            if (id == null)
-            {
-                return NotFound();
-            }
-
+          
             var empleado = conexionBD.Empleado.Find(id);
             if (empleado == null)
             {
                 return NotFound();
             }
 
+            ListasDesplegables listas = new ListasDesplegables();
+
+            ViewBag.puesto = listas.GenerarlistaDesplegableDePuestos();
+            ViewBag.departamento = listas.GenerarListaDesplegableDeDepartamentos();
+            ViewBag.tipoDeUsuario = listas.GenerarlistaDesplegableDeTiposDeUsuario();
+            ViewBag.jefesDeEmpleados = listas.GenerarlistaDesplegableDeJefes();
             return View(empleado);
         }
 
@@ -125,26 +143,35 @@ namespace Proyecto_Gestion_TI.Controllers
             {
                 return RedirectToAction("Index", "Login");
             }
+            var empleado = conexionBD.Empleado.Find(Id);
+            return View(empleado);
+        }
+
+        [HttpPost]
+        public IActionResult Delete(int? Id,Empleado empleado)
+        {
+            if (!EstaLaSesionActiva())
+            {
+                return RedirectToAction("Index", "Login");
+            }
 
             if (Id == null)
             {
                 return NotFound();
             }
 
-            var puesto = conexionBD.Puestos.Find(Id);
-            if (puesto == null)
+
+            if (empleado == null)
             {
                 return NotFound();
             }
             else
             {
-                conexionBD.Remove(puesto);
+                conexionBD.Remove(empleado);
                 conexionBD.SaveChanges();
             }
 
-            return View();
-
-
+            return RedirectToAction("Index");
         }
     }
 }
